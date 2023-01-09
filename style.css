@@ -1,0 +1,18 @@
+.form{
+    text-align: center;
+    background-color: antiquewhite;
+}
+input{
+    margin: 20px;
+
+}
+th,td{
+    border: 2px solid black;
+}
+
+button:hover{
+    background-color: green;
+}
+h1{
+    text-align: center;
+}
